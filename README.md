@@ -1,6 +1,4 @@
-# vCard with Nextjs
 
-Elevate your online presence with my latest project, a dynamic and responsive personal portfolio built using Next.js. This cutting-edge web application serves as an interactive resume, showcasing my skills, experiences, and projects in a sleek and user-friendly manner.
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20558%26project%3Dvcard-react%26in=0)](https://codetime.dev)
 
@@ -14,7 +12,6 @@ Elevate your online presence with my latest project, a dynamic and responsive pe
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
 ---
 
