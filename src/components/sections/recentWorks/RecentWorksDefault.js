@@ -83,7 +83,7 @@ const RecentWorksDefault = () => {
             },
             {
               href: "https://github.com/JATINMOUR/chat-with-multiple-pdfs-using-gemini-pro-",
-              imgSrc: "images/blog/chatAi.png",
+              imgSrc: "images/blog/stock pre.jpg",
               name: "Chat with MultiPDF",
             },
           ].map((work, index) => (

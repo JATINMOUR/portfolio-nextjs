@@ -1,41 +1,29 @@
 const SocialIcon = () => {
 	return (
 		<div className="social">
+
 			<a
 				target="_blank"
 				rel="noreferrer"
-				href="https://dribbble.com/codelikeagirl29"
-			>
-				<span className="fa fa-dribbble" />
-			</a>
-			<a
-				target="_blank"
-				rel="noreferrer"
-				href="https://twitter.com/dev_lindseyk"
+				href="https://x.com/Jateen46284988/with_replies"
 			>
 				<span className="fa fa-twitter" />
 			</a>
 			<a
 				target="_blank"
 				rel="noreferrer"
-				href="https://github.com/codelikeagirl29"
+				href="https://github.com/JATINMOUR"
 			>
 				<span className="fa fa-github" />
 			</a>
 			<a
 				target="_blank"
 				rel="noreferrer"
-				href="https://www.linkedin.com/in/lindsey-howard"
+				href="https://www.linkedin.com/in/jateen-maurya-89a492239/"
 			>
 				<span className="fa fa-linkedin-in" />
 			</a>
-			<a
-				target="_blank"
-				rel="noreferrer"
-				href="https://stackoverflow.com/users/14072521/lindsey"
-			>
-				<span className="fa fa-stack-overflow" />
-			</a>
+			
 		</div>
 	);
 };
