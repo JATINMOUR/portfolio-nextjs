@@ -14,7 +14,7 @@ const AboutMe = ({ bio }) => {
 				<div className='row'>
 					<div className='col col-d-12 col-t-6 col-m-12 border-line-v'>
 						<p>
-						Hello👋 , I'm Jateen Mourya, a Web Developer with Two years of experience specializing in creating dynamic and responsive web applications. I have strong expertise in HTML, CSS, and JavaScript, and I am proficient in backend technologies like Node.js, Java, SQL, MongoDB and Python. 
+						Hello👋 , I'm Harsh bkl, a Web Developer with Two years of experience specializing in creating dynamic and responsive web applications. I have strong expertise in HTML, CSS, and JavaScript, and I am proficient in backend technologies like Node.js, Java, SQL, MongoDB and Python. 
 						</p>
 						<p>
 						Passionate about improving my coding skills, I am currently expanding my knowledge in React and Data Analytics. I will be able to greatly benefit your organization by creating effective, scalable and user-friendly solutions.
