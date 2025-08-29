@@ -1,7 +1,5 @@
 import { Fragment } from 'react';
-const bio_ = ` <p>
-I am Lindsey, a Frontend Developer from Florida. Passionate about crafting captivating digital experiences through code, I am a skilled Frontend Web Developer with a keen eye for design & a knack for turning ideas into interactive web solutions.
-</p>`;
+
 const AboutMe = ({ bio }) => {
 	return (
 		<Fragment>
