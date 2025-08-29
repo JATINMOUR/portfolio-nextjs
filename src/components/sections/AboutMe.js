@@ -14,10 +14,13 @@ const AboutMe = ({ bio }) => {
 				<div className='row'>
 					<div className='col col-d-12 col-t-6 col-m-12 border-line-v'>
 						<p>
-						Hello👋 , I'm Harsh bkl, a Web Developer with Two years of experience specializing in creating dynamic and responsive web applications. I have strong expertise in HTML, CSS, and JavaScript, and I am proficient in backend technologies like Node.js, Java, SQL, MongoDB and Python. 
+						Hello👋 , I'm Jateen Mourya, I am a Data Analyst skilled in SQL, Excel, Power BI, Python, and DevOps tools, with expertise in data
+						visualization, trend analysis, and predictive modeling. I excel at transforming complex datasets into actionable insights to drive business decisions. 
 						</p>
 						<p>
-						Passionate about improving my coding skills, I am currently expanding my knowledge in React and Data Analytics. I will be able to greatly benefit your organization by creating effective, scalable and user-friendly solutions.
+						My experience includes working with large datasets, ML
+						models, automated reporting, and interactive dashboards. Additionally, I have knowledge of DevOps
+						practices to ensure smooth deployment and technical operations
 						</p>
 					</div>
 					{/* <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
